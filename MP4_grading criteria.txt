@@ -1,0 +1,26 @@
+Grading (MP5)
+
+Basic concepts (30) 
+  A clear idea on what to do (15)
+  Good understanding of the techniques (15)
+
+Report (40)
+  clarity (10)
+  algorithm description (15)
+  results analysis (15)
+
+
+Results (30)
+  
+  matlab code (10) 
+  Test cases 
+    test 3 images provided (10)
+    try different color space (5)
+    use fresh tone training data (5)
+    
+  
+optional (+20)
+
+Find a good color space (5)
+Train a Gaussian color model (10)
+test 3 images provided (5)
